@@ -1,0 +1,6 @@
+AWS Bitname MEAN APP 
+
+INSTANCE LOG
+
+username: root
+MEAN APP Password:  dT5HJ1b4fK69
